@@ -1,0 +1,15 @@
+/* Estilos para los botones de los minijuegos */
+.minijuego-btn {
+    background-color: #ffcc00; /* Color de fondo similar al fondo general */
+    border-color: #ffcc00;
+    color: #ffffff; /* Texto en color blanco */
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-bottom: 10px; /* Separación entre juegos */
+    transition: background-color 0.3s ease;
+  }
+  
+  .minijuego-btn:hover {
+    background-color: #ff9900;
+  }
+  
